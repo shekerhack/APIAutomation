@@ -1,3 +1,4 @@
+package com.rest;
 import static io.restassured.RestAssured.given;
 
 import java.io.FileNotFoundException;
@@ -11,16 +12,18 @@ import org.testng.annotations.Test;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class SingleResourceTest extends DataReader{
-
+public class ListResourceTest extends DataReader {
+	
+	public static Properties pr;
+	public static FileReader reader;
 	@Test()
-	public void singleResource() throws IOException {
+	public void listResource() throws IOException {
 		reader = new FileReader(".//InputData//TestData.properties");
 		 pr = new Properties();
 		pr.load(reader);
 		
 		RestAssured.baseURI= pr.getProperty("BaseUri");
-		RestAssured.basePath=pr.getProperty("SingleResource");
+		RestAssured.basePath=pr.getProperty("ListResource");
 		
 		Response res = given()
 				.auth().none()
@@ -32,9 +35,9 @@ public class SingleResourceTest extends DataReader{
 		.log().all()
 		.extract().response();
 		String sJ = res.asString();
-	Assert.assertTrue(sJ.contains("fuchsia rose"));
+	Assert.assertTrue(sJ.contains("cerulean"));
 	Assert.assertTrue(sJ.contains("2001"));
-	Assert.assertTrue(sJ.contains("#C74375"));
+	Assert.assertTrue(sJ.contains("#98B2D1"));
 		
 		
 	}

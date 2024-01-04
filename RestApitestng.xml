@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+<suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
       <class name="com.rest.UpdateTest"/>
@@ -12,4 +12,4 @@
       <class name="com.rest.SingleUserTest"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Failed suite [Suite] -->
+</suite> <!-- Suite -->

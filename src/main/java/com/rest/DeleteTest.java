@@ -1,3 +1,4 @@
+package com.rest;
 import static io.restassured.RestAssured.given;
 
 import java.io.FileNotFoundException;

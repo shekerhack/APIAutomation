@@ -1,3 +1,4 @@
+package com.rest;
 import static io.restassured.RestAssured.given;
 import java.util.HashMap;
 
@@ -29,7 +30,7 @@ public class CreateTest extends DataReader {
 		RestAssured.baseURI= pr.getProperty("BaseUri");
 		RestAssured.basePath=pr.getProperty("Create");
 		
-		HashMap hm = new HashMap();
+		HashMap<String, String> hm = new HashMap<String, String>();
 		Faker fk = new Faker();
 		
 		hm.put("name", fk.name().firstName());

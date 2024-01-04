@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test name="Test">
     <classes>
-      <class name="com.api.UpdateTest"/>
-      <class name="com.api.CreateUser"/>
-      <class name="com.api.CountryTest"/>
-      <class name="com.api.AssertTest"/>
-      <class name="com.api.ResgisterTest"/>
-      <class name="com.api.ListResource"/>
-      <class name="com.api.AllUsersTest"/>
-      <class name="com.api.DeleteTest"/>
+      <class name="com.rest.UpdateTest"/>
+      <class name="com.rest.CreateTest"/>
+      <class name="com.rest.DeleteTest"/>
+      <class name="com.rest.ListUsersTest"/>
+      <class name="com.rest.ListResourceTest"/>
+      <class name="com.rest.SingleResourceTest"/>
+      <class name="com.rest.SingleUserTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Failed suite [Suite] -->

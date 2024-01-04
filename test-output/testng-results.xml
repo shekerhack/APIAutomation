@@ -1,17 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2252" started-at="2024-01-03T02:44:58Z" finished-at="2024-01-03T02:45:00Z">
+  <suite name="Suite" duration-ms="3986" started-at="2024-01-04T03:24:54Z" finished-at="2024-01-04T03:24:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2252" started-at="2024-01-03T02:44:58Z" finished-at="2024-01-03T02:45:00Z">
-      <class name="DeleteTest">
-        <test-method status="PASS" signature="delete()[pri:0, instance:DeleteTest@1b0375b3]" name="delete" duration-ms="2237" started-at="2024-01-02T20:44:58Z" finished-at="2024-01-02T20:45:00Z">
+    <test name="Test" duration-ms="3986" started-at="2024-01-04T03:24:54Z" finished-at="2024-01-04T03:24:58Z">
+      <class name="com.rest.SingleResourceTest">
+        <test-method status="PASS" signature="singleResource()[pri:0, instance:com.rest.SingleResourceTest@58ceff1]" name="singleResource" duration-ms="312" started-at="2024-01-03T21:24:58Z" finished-at="2024-01-03T21:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleResource -->
+      </class> <!-- com.rest.SingleResourceTest -->
+      <class name="com.rest.SingleUserTest">
+        <test-method status="PASS" signature="singleUser()[pri:0, instance:com.rest.SingleUserTest@7c30a502]" name="singleUser" duration-ms="87" started-at="2024-01-03T21:24:58Z" finished-at="2024-01-03T21:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUser -->
+      </class> <!-- com.rest.SingleUserTest -->
+      <class name="com.rest.ListUsersTest">
+        <test-method status="PASS" signature="listUsers()[pri:0, instance:com.rest.ListUsersTest@1d251891]" name="listUsers" duration-ms="123" started-at="2024-01-03T21:24:58Z" finished-at="2024-01-03T21:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listUsers -->
+      </class> <!-- com.rest.ListUsersTest -->
+      <class name="com.rest.ListResourceTest">
+        <test-method status="PASS" signature="listResource()[pri:0, instance:com.rest.ListResourceTest@48140564]" name="listResource" duration-ms="107" started-at="2024-01-03T21:24:58Z" finished-at="2024-01-03T21:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listResource -->
+      </class> <!-- com.rest.ListResourceTest -->
+      <class name="com.rest.DeleteTest">
+        <test-method status="PASS" signature="delete()[pri:0, instance:com.rest.DeleteTest@27f674d]" name="delete" duration-ms="317" started-at="2024-01-03T21:24:57Z" finished-at="2024-01-03T21:24:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- delete -->
-      </class> <!-- DeleteTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.rest.DeleteTest -->
+      <class name="com.rest.UpdateTest">
+        <test-method status="PASS" signature="update()[pri:0, instance:com.rest.UpdateTest@e580929]" name="update" duration-ms="2660" started-at="2024-01-03T21:24:54Z" finished-at="2024-01-03T21:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+      </class> <!-- com.rest.UpdateTest -->
+      <class name="com.rest.CreateTest">
+        <test-method status="PASS" signature="create()[pri:0, instance:com.rest.CreateTest@4c203ea1]" name="create" duration-ms="358" started-at="2024-01-03T21:24:57Z" finished-at="2024-01-03T21:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+      </class> <!-- com.rest.CreateTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

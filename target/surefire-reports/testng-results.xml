@@ -2,289 +2,289 @@
 <testng-results skipped="0" failed="0" ignored="3" total="41" passed="38">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="20" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+  <suite name="Suite" duration-ms="20" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="20" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+    <test name="Test" duration-ms="20" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
       <class name="com.org.Attribute3Test">
-        <test-method status="PASS" signature="grapes()[pri:4, instance:com.org.Attribute3Test@59e84876]" name="grapes" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="grapes()[pri:4, instance:com.org.Attribute3Test@59e84876]" name="grapes" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- grapes -->
-        <test-method status="PASS" signature="apple()[pri:5, instance:com.org.Attribute3Test@59e84876]" name="apple" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="apple()[pri:5, instance:com.org.Attribute3Test@59e84876]" name="apple" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apple -->
-        <test-method status="PASS" signature="mango()[pri:2, instance:com.org.Attribute3Test@59e84876]" name="mango" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="mango()[pri:2, instance:com.org.Attribute3Test@59e84876]" name="mango" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mango -->
-        <test-method status="PASS" signature="promo()[pri:3, instance:com.org.Attribute3Test@59e84876]" name="promo" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="promo()[pri:3, instance:com.org.Attribute3Test@59e84876]" name="promo" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- promo -->
-        <test-method status="PASS" signature="orange()[pri:1, instance:com.org.Attribute3Test@59e84876]" name="orange" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="orange()[pri:1, instance:com.org.Attribute3Test@59e84876]" name="orange" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orange -->
       </class> <!-- com.org.Attribute3Test -->
       <class name="com.org.FruitsTest">
-        <test-method status="PASS" signature="guva()[pri:0, instance:com.org.FruitsTest@337d0578]" name="guva" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- guva -->
-        <test-method status="PASS" signature="pomegranate()[pri:0, instance:com.org.FruitsTest@337d0578]" name="pomegranate" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pomegranate -->
-        <test-method status="PASS" signature="apple()[pri:0, instance:com.org.FruitsTest@337d0578]" name="apple" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="apple()[pri:0, instance:com.org.FruitsTest@337d0578]" name="apple" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apple -->
-        <test-method status="PASS" signature="grapes()[pri:0, instance:com.org.FruitsTest@337d0578]" name="grapes" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="guva()[pri:0, instance:com.org.FruitsTest@337d0578]" name="guva" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guva -->
+        <test-method status="PASS" signature="pomegranate()[pri:0, instance:com.org.FruitsTest@337d0578]" name="pomegranate" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pomegranate -->
+        <test-method status="PASS" signature="grapes()[pri:0, instance:com.org.FruitsTest@337d0578]" name="grapes" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- grapes -->
       </class> <!-- com.org.FruitsTest -->
       <class name="com.org.AnimalsTest">
-        <test-method status="PASS" signature="tiger()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="tiger" is-config="true" duration-ms="8" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="tiger()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="tiger" is-config="true" duration-ms="12" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tiger -->
-        <test-method status="PASS" signature="one()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="one" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="one()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="one" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- one -->
-        <test-method status="PASS" signature="dog()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="dog" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="dog()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="dog" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dog -->
-        <test-method status="PASS" signature="zebra()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="zebra" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="zebra()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="zebra" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- zebra -->
-        <test-method status="PASS" signature="monkey()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="monkey" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="monkey()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="monkey" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- monkey -->
-        <test-method status="PASS" signature="lion()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="lion" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="lion()[pri:0, instance:com.org.AnimalsTest@13a57a3b]" name="lion" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lion -->
       </class> <!-- com.org.AnimalsTest -->
       <class name="com.org.NumbersTest">
-        <test-method status="PASS" signature="three()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="three" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="three()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="three" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- three -->
-        <test-method status="PASS" signature="eight()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="eight" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="eight()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="eight" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- eight -->
-        <test-method status="PASS" signature="seven()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="seven" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="seven()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="seven" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- seven -->
-        <test-method status="PASS" signature="four()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="four" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- four -->
-        <test-method status="PASS" signature="five()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="five" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="five()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="five" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- five -->
-        <test-method status="PASS" signature="nine()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="nine" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="nine()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="nine" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nine -->
-        <test-method status="PASS" signature="six()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="six" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="six()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="six" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- six -->
-        <test-method status="PASS" signature="two()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="two" is-config="true" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="four()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="four" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- four -->
+        <test-method status="PASS" signature="two()[pri:0, instance:com.org.NumbersTest@7ca48474]" name="two" is-config="true" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- two -->
       </class> <!-- com.org.NumbersTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
-  <suite name="Suite (1)" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+  <suite name="Suite (1)" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
     <groups>
       <group name="smoke">
         <method signature="AttributeGroup1Test.loginPage()[pri:0, instance:com.org.AttributeGroup1Test@4520ebad]" name="loginPage" class="com.org.AttributeGroup1Test"/>
       </group> <!-- smoke -->
     </groups>
-    <test name="Test" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+    <test name="Test" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
       <class name="com.org.AttributeGroup1Test">
-        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.org.AttributeGroup1Test@4520ebad]" name="loginPage" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.org.AttributeGroup1Test@4520ebad]" name="loginPage" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
       </class> <!-- com.org.AttributeGroup1Test -->
     </test> <!-- Test -->
   </suite> <!-- Suite (1) -->
-  <suite name="Suite (0)" duration-ms="14" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+  <suite name="Suite (0)" duration-ms="10" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+    <test name="Test" duration-ms="10" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
       <class name="com.org.PaymentTest">
-        <test-method status="PASS" signature="payment()[pri:0, instance:com.org.PaymentTest@5d5eef3d]" name="payment" duration-ms="0" started-at="2024-01-02T00:46:40Z" depends-on-methods="com.org.BillingTest.billing" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="payment()[pri:0, instance:com.org.PaymentTest@5d5eef3d]" name="payment" duration-ms="0" started-at="2024-01-04T03:30:40Z" depends-on-methods="com.org.BillingTest.billing" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- payment -->
-        <test-method status="PASS" signature="cart()[pri:0, instance:com.org.PaymentTest@5d5eef3d]" name="cart" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="cart()[pri:0, instance:com.org.PaymentTest@5d5eef3d]" name="cart" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cart -->
-        <test-method status="PASS" signature="billing()[pri:0, instance:com.org.PaymentTest@5d5eef3d]" name="billing" duration-ms="0" started-at="2024-01-02T00:46:40Z" depends-on-methods="com.org.ItemsToCart.cart" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="billing()[pri:0, instance:com.org.PaymentTest@5d5eef3d]" name="billing" duration-ms="0" started-at="2024-01-04T03:30:40Z" depends-on-methods="com.org.ItemsToCart.cart" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- billing -->
       </class> <!-- com.org.PaymentTest -->
       <class name="com.org.Attribute1Test">
-        <test-method status="PASS" signature="attribute1()[pri:0, instance:com.org.Attribute1Test@3a82f6ef]" name="attribute1" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="attribute1()[pri:0, instance:com.org.Attribute1Test@3a82f6ef]" name="attribute1" duration-ms="3" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- attribute1 -->
-        <test-method status="PASS" signature="attribute1()[pri:0, instance:com.org.Attribute1Test@3a82f6ef]" name="attribute1" duration-ms="4" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="attribute1()[pri:0, instance:com.org.Attribute1Test@3a82f6ef]" name="attribute1" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- attribute1 -->
-        <test-method status="PASS" signature="attribute1()[pri:0, instance:com.org.Attribute1Test@3a82f6ef]" name="attribute1" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="attribute1()[pri:0, instance:com.org.Attribute1Test@3a82f6ef]" name="attribute1" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- attribute1 -->
       </class> <!-- com.org.Attribute1Test -->
       <class name="com.org.Attribute2Test">
-        <test-method status="PASS" signature="attribute2()[pri:0, instance:com.org.Attribute2Test@6cc4c815]" name="attribute2" duration-ms="10" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="attribute2()[pri:0, instance:com.org.Attribute2Test@6cc4c815]" name="attribute2" duration-ms="7" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- attribute2 -->
       </class> <!-- com.org.Attribute2Test -->
     </test> <!-- Test -->
   </suite> <!-- Suite (0) -->
-  <suite name="Suite (4)" duration-ms="5910" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:46Z">
+  <suite name="Suite (4)" duration-ms="6141" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:46Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5910" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:46Z">
+    <test name="Test" duration-ms="6141" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:46Z">
       <class name="com.api.CreateUser">
-        <test-method status="PASS" signature="newUser()[pri:0, instance:com.api.CreateUser@61832929]" name="newUser" duration-ms="393" started-at="2024-01-02T00:46:43Z" finished-at="2024-01-02T00:46:43Z">
+        <test-method status="PASS" signature="newUser()[pri:0, instance:com.api.CreateUser@61832929]" name="newUser" duration-ms="433" started-at="2024-01-04T03:30:43Z" finished-at="2024-01-04T03:30:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newUser -->
       </class> <!-- com.api.CreateUser -->
       <class name="com.api.DeleteTest">
-        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.api.DeleteTest@68c4039c]" name="deleteTest" duration-ms="300" started-at="2024-01-02T00:46:46Z" finished-at="2024-01-02T00:46:46Z">
+        <test-method status="PASS" signature="deleteTest()[pri:0, instance:com.api.DeleteTest@68c4039c]" name="deleteTest" duration-ms="290" started-at="2024-01-04T03:30:46Z" finished-at="2024-01-04T03:30:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteTest -->
       </class> <!-- com.api.DeleteTest -->
       <class name="com.api.UpdateTest">
-        <test-method status="PASS" signature="updateTest()[pri:0, instance:com.api.UpdateTest@5b275dab]" name="updateTest" duration-ms="2671" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:43Z">
+        <test-method status="PASS" signature="updateTest()[pri:0, instance:com.api.UpdateTest@5b275dab]" name="updateTest" duration-ms="2790" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateTest -->
       </class> <!-- com.api.UpdateTest -->
       <class name="com.api.AllUsersTest">
-        <test-method status="PASS" signature="allUsers()[pri:0, instance:com.api.AllUsersTest@3532ec19]" name="allUsers" duration-ms="140" started-at="2024-01-02T00:46:45Z" finished-at="2024-01-02T00:46:45Z">
+        <test-method status="PASS" signature="allUsers()[pri:0, instance:com.api.AllUsersTest@3532ec19]" name="allUsers" duration-ms="155" started-at="2024-01-04T03:30:46Z" finished-at="2024-01-04T03:30:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- allUsers -->
-        <test-method status="PASS" signature="allUsers1()[pri:0, instance:com.api.AllUsersTest@3532ec19]" name="allUsers1" duration-ms="190" started-at="2024-01-02T00:46:45Z" finished-at="2024-01-02T00:46:46Z">
+        <test-method status="PASS" signature="allUsers1()[pri:0, instance:com.api.AllUsersTest@3532ec19]" name="allUsers1" duration-ms="187" started-at="2024-01-04T03:30:46Z" finished-at="2024-01-04T03:30:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- allUsers1 -->
-        <test-method status="PASS" signature="singleUser()[pri:0, instance:com.api.AllUsersTest@3532ec19]" name="singleUser" duration-ms="140" started-at="2024-01-02T00:46:46Z" finished-at="2024-01-02T00:46:46Z">
+        <test-method status="PASS" signature="singleUser()[pri:0, instance:com.api.AllUsersTest@3532ec19]" name="singleUser" duration-ms="118" started-at="2024-01-04T03:30:46Z" finished-at="2024-01-04T03:30:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- singleUser -->
       </class> <!-- com.api.AllUsersTest -->
       <class name="com.api.ResgisterTest">
-        <test-method status="PASS" signature="register()[pri:0, instance:com.api.ResgisterTest@5e5792a0]" name="register" duration-ms="304" started-at="2024-01-02T00:46:45Z" finished-at="2024-01-02T00:46:45Z">
+        <test-method status="PASS" signature="register()[pri:0, instance:com.api.ResgisterTest@5e5792a0]" name="register" duration-ms="390" started-at="2024-01-04T03:30:45Z" finished-at="2024-01-04T03:30:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
       </class> <!-- com.api.ResgisterTest -->
       <class name="com.api.AssertTest">
-        <test-method status="PASS" signature="assertTest()[pri:0, instance:com.api.AssertTest@3ffc5af1]" name="assertTest" duration-ms="346" started-at="2024-01-02T00:46:44Z" finished-at="2024-01-02T00:46:45Z">
+        <test-method status="PASS" signature="assertTest()[pri:0, instance:com.api.AssertTest@3ffc5af1]" name="assertTest" duration-ms="340" started-at="2024-01-04T03:30:45Z" finished-at="2024-01-04T03:30:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assertTest -->
       </class> <!-- com.api.AssertTest -->
       <class name="com.api.ListResource">
-        <test-method status="PASS" signature="listResource()[pri:0, instance:com.api.ListResource@26653222]" name="listResource" duration-ms="110" started-at="2024-01-02T00:46:45Z" finished-at="2024-01-02T00:46:45Z">
+        <test-method status="PASS" signature="listResource()[pri:0, instance:com.api.ListResource@26653222]" name="listResource" duration-ms="120" started-at="2024-01-04T03:30:46Z" finished-at="2024-01-04T03:30:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- listResource -->
       </class> <!-- com.api.ListResource -->
       <class name="com.api.CountryTest">
-        <test-method status="PASS" signature="country()[pri:0, instance:com.api.CountryTest@29774679]" name="country" duration-ms="1315" started-at="2024-01-02T00:46:43Z" finished-at="2024-01-02T00:46:44Z">
+        <test-method status="PASS" signature="country()[pri:0, instance:com.api.CountryTest@29774679]" name="country" duration-ms="1317" started-at="2024-01-04T03:30:44Z" finished-at="2024-01-04T03:30:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- country -->
       </class> <!-- com.api.CountryTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite (4) -->
-  <suite name="Suite (3)" duration-ms="1" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+  <suite name="Suite (3)" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="1" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+    <test name="Test" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
       <class name="com.fruits.MangoTest">
-        <test-method status="PASS" signature="mango()[pri:0, instance:com.fruits.MangoTest@8bd1b6a]" name="mango" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="mango()[pri:0, instance:com.fruits.MangoTest@8bd1b6a]" name="mango" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mango -->
       </class> <!-- com.fruits.MangoTest -->
       <class name="com.fruits.OrangeTest">
-        <test-method status="PASS" signature="orange()[pri:0, instance:com.fruits.OrangeTest@55f3ddb1]" name="orange" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="orange()[pri:0, instance:com.fruits.OrangeTest@55f3ddb1]" name="orange" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orange -->
       </class> <!-- com.fruits.OrangeTest -->
       <class name="com.fruits.PomogranateTest">
-        <test-method status="PASS" signature="pomogranate()[pri:0, instance:com.fruits.PomogranateTest@18be83e4]" name="pomogranate" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="pomogranate()[pri:0, instance:com.fruits.PomogranateTest@18be83e4]" name="pomogranate" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pomogranate -->
       </class> <!-- com.fruits.PomogranateTest -->
       <class name="com.fruits.AppleTest">
-        <test-method status="PASS" signature="apple()[pri:0, instance:com.fruits.AppleTest@cc285f4]" name="apple" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="apple()[pri:0, instance:com.fruits.AppleTest@cc285f4]" name="apple" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apple -->
       </class> <!-- com.fruits.AppleTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite (3) -->
-  <suite name="Suite (2)" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+  <suite name="Suite (2)" duration-ms="3" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+    <test name="Test" duration-ms="3" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
       <class name="com.vegetables.OnionTest">
-        <test-method status="PASS" signature="onion()[pri:0, instance:com.vegetables.OnionTest@1593948d]" name="onion" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="onion()[pri:0, instance:com.vegetables.OnionTest@1593948d]" name="onion" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- onion -->
       </class> <!-- com.vegetables.OnionTest -->
       <class name="com.vegetables.BeansTest">
-        <test-method status="PASS" signature="beans()[pri:0, instance:com.vegetables.BeansTest@675d3402]" name="beans" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="beans()[pri:0, instance:com.vegetables.BeansTest@675d3402]" name="beans" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beans -->
       </class> <!-- com.vegetables.BeansTest -->
       <class name="com.vegetables.TomatoTest">
-        <test-method status="PASS" signature="tomato()[pri:0, instance:com.vegetables.TomatoTest@482f8f11]" name="tomato" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="tomato()[pri:0, instance:com.vegetables.TomatoTest@482f8f11]" name="tomato" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tomato -->
       </class> <!-- com.vegetables.TomatoTest -->
       <class name="com.vegetables.PotatoTest">
-        <test-method status="PASS" signature="potato()[pri:0, instance:com.vegetables.PotatoTest@28feb3fa]" name="potato" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="potato()[pri:0, instance:com.vegetables.PotatoTest@28feb3fa]" name="potato" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- potato -->
       </class> <!-- com.vegetables.PotatoTest -->
       <class name="com.vegetables.ChillyTest">
-        <test-method status="PASS" signature="chilly()[pri:0, instance:com.vegetables.ChillyTest@51565ec2]" name="chilly" duration-ms="0" started-at="2024-01-02T00:46:40Z" finished-at="2024-01-02T00:46:40Z">
+        <test-method status="PASS" signature="chilly()[pri:0, instance:com.vegetables.ChillyTest@51565ec2]" name="chilly" duration-ms="0" started-at="2024-01-04T03:30:40Z" finished-at="2024-01-04T03:30:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chilly -->

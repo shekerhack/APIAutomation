@@ -1,3 +1,4 @@
+package com.rest;
 import static io.restassured.RestAssured.given;
 
 import java.io.FileNotFoundException;
@@ -27,7 +28,7 @@ public class UpdateTest extends DataReader {
 		RestAssured.baseURI= pr.getProperty("BaseUri");
 		RestAssured.basePath=pr.getProperty("Update");
 		
-		HashMap hm = new HashMap();
+		HashMap<String, String> hm = new HashMap<String, String>();
 		Faker fk = new Faker();
 		String firstName = fk.name().firstName();
 		String jobTitle = fk.job().title();
